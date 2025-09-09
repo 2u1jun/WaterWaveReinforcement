@@ -1,0 +1,20 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio website showcasing skills and projects.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
